@@ -37,7 +37,7 @@
 - ✅ TorchScript/ONNX/TensorRT export
 - ❌ Training pipeline (not included)
 
-> Note: This implementation replaces the dynamic attention-based refinement module with an UNet for stable ONNX export. It also includes an additional M variant and extended training data with transparent objects. 
+> Note: The publicly released model weights and structure do not exactly match those used in the benchmark submission. This implementation replaces the dynamic attention-based refinement module with an UNet for stable ONNX export. It also includes an additional M variant and extended training data with transparent objects. 
 
 ---
 
